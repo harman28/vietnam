@@ -1,4 +1,6 @@
-# vietnam
+# Vietnam
+
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
 **A note about VBH:**
 Vietnam Bagpackers Hostel is the largest chain of hostels in Vietnam, and in many towns it's the only reasonable option (eg. Hue). It's basic, extremely cheap, and also very clean, which is why it's so popular with travellers. Sticking to a chain of hostels also acts as a bit of a reassurance: no matter what time I landed up in a town, or how little cash I had on me at the time, or whether I had enough battery in my phone to let me look for hostels, I could usually just show my VBH wristband to a local guy and he'd help me get to the hostel. The hostel staff is also usually very helpful with advice about planning your days, so it's a good place to meet people and make groups to explore things together. I ended up staying at VBH in 4 different towns.
