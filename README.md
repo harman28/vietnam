@@ -3,12 +3,15 @@
 [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 
 **A note about VBH:**
+
 Vietnam Bagpackers Hostel is the largest chain of hostels in Vietnam, and in many towns it's the only reasonable option (eg. Hue). It's basic, extremely cheap, and also very clean, which is why it's so popular with travellers. Sticking to a chain of hostels also acts as a bit of a reassurance: no matter what time I landed up in a town, or how little cash I had on me at the time, or whether I had enough battery in my phone to let me look for hostels, I could usually just show my VBH wristband to a local guy and he'd help me get to the hostel. The hostel staff is also usually very helpful with advice about planning your days, so it's a good place to meet people and make groups to explore things together. I ended up staying at VBH in 4 different towns.
+
 There are some downsides though. VBH does 'activities' every evening in the hostel, many involving free beer, long happy hours, and stupid drinking games with random expats, and so if you don't push yourself, you'll find yourself spending a lot more time in the hostel than you actually should if you want to do a good job exploring Vietnam. This was especially true in Hoi An, where VBH has opened a massive hostel with hotel-like facilities, including multiple pools, lounges, etc. But the hostel is a long way from Hoi An's old quarter, which is really where you _should_ be spending your evenings (it's beautiful), instead of drinking beer with random Swedish people and ordering burgers and pizza. On that note, the food at most VBHs is a crime in itself. It's not bad, it's just decidedly not local, and probably the most disproportionately expensive food you'll eat in Vietnam. Breakfasts were free at VBH, but after a few days I realized I was missing out on exploration time, so started ditching the free breakfast in favour of stepping out and eating whatever looked most interesting on the street.
 
 Cities:
 
 **Hanoi:** This city is basically endless. I ended up spending 4 nights here in what was otherwise a very fast paced trip, and I feel like I could've easily spent a few more. There's that much to do and that much to eat. Will give city specific recommendations for things to do if you ask, but basically assume that extra days in Hanoi are never wasted days. Old quarter alone can consume 3 days.
+
 *Stuff:*
 - Make sure you get at least one weekend night here. The area around the lake is shut down for traffic and people come out and do random performances on the road. Early in the evening it's a bit loud and karaoke-y, but later on it settles into a quieter sort of activity, which is nice. 
 - People will tell you to go to The Note Coffee for your egg coffee. Do not. Go to Giang Coffee for that instead. Then go to The Note anyway, it's a great place, you'll find out why the second you walk in.
@@ -19,16 +22,20 @@ Cities:
 - There's a window in the wall called 'Giang - Bun Oc Pho Co', with a really tiny photograph stuck above the window. If you look closely, it's a picture of Anthony Bourdain eating Bun Oc at that restaurant. Accidental discovery that I'm quite proud of.
 
 **Ninh Binh:** A town I've not seen very often in other people's Vietnam itinerary, but one of my favourite places. Ninh Binh is a 2 hour train ride away from Hanoi, so I ended up doing it as a day trip, and was back by 8pm. However, people with time do spend much longer there. Some people I met suggested 2 nights, but I think one is enough.
+
 *Stuff:*
 - Ninh Binh itself has nothing in it to do, but it's near two villages/areas, namely Tam Coc and Trang An. Both have temples and ruins, neither of which I cared very much for. Both also have completely insane boat rides, and that's the main attraction. Do an image search of the names to see what I mean. I only managed to do one of the two boat rides, Tam Coc. If you're staying an extra day, do both. 
 - Also, get a bike the second you get off the train. They're cheap, and the rides around Ninh Binh are some of the best in Vietnam. In particular, when going from Tam Coc or Ninh Binh to Hoa Lu (ancient capital, more timepass ruins), completely ignore the Google Maps recommended route and try and go by the one that's closer to the hills. The former is just a highway, the latter is a strong contender for best road in Vietnam.
 
 **Ha Long Bay:** I did a one night cruise, and I was quite happy with what it included and what we got to do. However, I met a bunch of people on the boat who were on their second night, and they were pretty happy too, not having gotten bored of the limited activities on the cruise. So I think 2 night cruises are fine. Regarding the cruise company itself, there are a handful of companies that do Bai Tu Long too, and this is mostly what you'll end up picking by default if you stay at decent hostels in Hanoi. I can personally vouch for one called the Christina Cruise, but like I said there are a few more that are probably good. Also, the price differences between different cruises by the same company are often small, and they only affect the luxury of your lodging on the boat, and maybe the food (a bit). It doesn't actually affect your itinerary. 
+
 (Since you're doing South to North, I'd actually recommend doing one of the higher end cruises. It'll be like $10-$15 extra, but a nice, comfortable bed and luxurious personal shower will be a godsend after a staying at hostels of varying quality for 2 weeks)
+
 *Stuff:*
 - Buses from Hanoi to Ha Long do a rest stop at this absurd supersupermarket that sells everything from coffee to carpets to marble statues. Everything costs a lot there. Don't buy anything there, it's all cheaper in Hanoi.
 
 **Hue**: I got here by train from Hanoi. It's cheap, and I slept very well. Hue itself doesn't have a whole lot to do, and I wouldn't dream of spending 3 nights there. 1 maybe.
+
 *Stuff:*
 - There's an Imperial Palace, and maybe a few other things to go and see. If you're really going to spend that much time there, then that probably means you're going to go to the DMZ and surrounding areas. I don't know very much about that stuff.
 - You're very likely going to stay at VBH there. The same street has a few nice restaurants, including Jalapeno and Big Tuna (or something). Hue's noodle soup is called Bun Bo Hue, and it's nice everywhere. I also spotted some nice cafes around.
@@ -38,6 +45,7 @@ Cities:
 **Da Nang:** Didn't spend any time here at all, seems to be a regular city. Used the airport, it's the easiest way to head South, and fastest to head North.
 
 **Hoi An:** How long you spend here depends on how much you're enjoying the place. Would recommend you keep this flexible, even if the rest of the trip is fixed. You may find yourself wanting to spend longer there.
+
 *Stuff:*
 - Hoi An has incredible food everywhere, and while coffee is great everywhere in Vietnam, the cafes here are especially good. Additionally, the Cao Lao. A lot of Vietnamese towns have their own version of noodle soup, and Cao Lao is Hoi An's. It's unique cos the noodles themselves are taste delicious (rather than the beef in other towns), which I mention because it means that the veg version is probably also good. 
 - There's also a pure veg place I've forgotten the name of, that looked amazing, that I somehow walked past while trying to explore some smaller alleys. It's called Minh Hien III.
@@ -54,6 +62,7 @@ Cities:
 - La Bien Street is worth walking on even if you have a nothing more than a few hours. Nice cafes and pubs, although a few too many people attempting to drag you into massage parlours.
 
 **Mui Ne:** I have heard very widely differing opinions about this town. I loved it, and had by far my most interesting day there, but several people didn't and some leave just a few hours after they arrive because they're so disappointed. The primary complaint seems to be "it's too much like Europe", which I didn't really relate to. I would probably go back here, and depending on how the rest of your itinerary is going, you might consider spending 2 nights here.
+
 *Stuff:*
 - When you're traveling to the city by bus, the first time the dude calls out 'Mui Ne' is _not_ when you have to get off. That's still about 14km away from the road with the hostels on it. Check maps before disembarking, or shady situations can ensue.
 - Somebody somewhere on Reddit drew a 40km bike route on a map of Mui Ne, that goes in and and around the town and covers a bunch of different things. Alongside Ninh Binh, this was one of the incredibly beautiful roads I got to ride on. You've seen those photographs of complete wilderness and a single road that dips down in front of you and then stretches to the horizon? You've see a bunch of them on this route. My experience was particularly memorable because I ran out of petrol midway and had to hitchhike, but the ride was already special before that happened.
@@ -64,6 +73,7 @@ Cities:
   - Oysters are basically veg, right YV? They are. I mean you only know they're alive cos your schoolteachers told you they are, which can be said for plants as well. You should have an oyster. With spiced oil and herbs.
 
 **Dalat:** 
+
 *Stuff:*
 - Stay at Dalat Family Hostel. Do not question this, just stay there and thank me later. They live up to their name, adopt you like a son, and attempt to force free meals onto you at every opportunity.
 - There's something called a 'manual rollercoaster' that goes down a waterfall somewhere in this town, that I enjoyed far more than any adult should. Try and start your ride at least 5 minutes after the person before you, so you don't end up stuck behind some old fellow who refuses to go very fast. Also, don't bother with the return ticket, just do one-way. The ride back is no fun, is usually too crowded, and the alternative walk is nice and crosses 3 waterfalls.
