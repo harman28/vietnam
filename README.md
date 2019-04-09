@@ -15,7 +15,7 @@ Cities:
 *Stuff:*
 - Make sure you get at least one weekend night here. The area around the lake is shut down for traffic and people come out and do random performances on the road. Early in the evening it's a bit loud and karaoke-y, but later on it settles into a quieter sort of activity, which is nice. 
 - People will tell you to go to The Note Coffee for your egg coffee. Do not. Go to Giang Coffee for that instead. Then go to The Note anyway, it's a great place, you'll find out why the second you walk in.
-- Have a Banh Mi approx every 6 hours.
+- Have a Banh Mi and iced coffee approx every 6 hours.
 - For breakfast, step out early and go to one those local places on the pavements. Your metric should be that you don’t spot any firangs there. Most restaurants in Hanoi have an usher outside urging you to come in, so find one that doesn’t. The breakfast you have in a place like that is guaranteed to be better than anywhere else. I went to a place at 16 Dao Duy Tu street, that’s too small to show up on Google Maps, but was brilliant. However, there are likely dozens like it, so you can easily find more.
 - There’s a jazz club called Binh Minh, at the edge of the old quarter, which I discovered only on my last day in Hanoi. I’m glad I didn’t discover it sooner, or I might’ve spent every single evening there.
 - There's a restaurant called Highway 4 where you can eat roasted crickets and locusts. For your non veg friends.
